@@ -2,11 +2,11 @@
 
 - 🌱 I’m currently learning **Next.Js**
 
-- 👨‍💻 All of my projects are available at [https://abudzaralghifari.vercel.app/](https://abudzaralghifari.vercel.app/)
+- 👨‍💻 All of my projects are available at **[https://abudzaralghifari.vercel.app/](https://abudzaralghifari.vercel.app/)**
 
 - 📫 How to reach me **abuz.alghifari@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/176XkOJ_MRsOtJUQNTu3S-NkmSMDtkD5L/view](https://drive.google.com/file/d/176XkOJ_MRsOtJUQNTu3S-NkmSMDtkD5L/view)
+- 📄 Know about my experiences **[https://drive.google.com/file/d/176XkOJ_MRsOtJUQNTu3S-NkmSMDtkD5L/view](https://drive.google.com/file/d/176XkOJ_MRsOtJUQNTu3S-NkmSMDtkD5L/view)**
 
 
 <h3 align="left">Languages and Tools:</h3>
