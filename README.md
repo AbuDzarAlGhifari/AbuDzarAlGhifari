@@ -6,8 +6,7 @@
 - 📫 How to reach me **abuz.alghifari@gmail.com**
 
 - 📄 Know about my experiences **[https://drive.google.com/file/d/176XkOJ_MRsOtJUQNTu3S-NkmSMDtkD5L/view](https://drive.google.com/file/d/176XkOJ_MRsOtJUQNTu3S-NkmSMDtkD5L/view)**
----
-
+  
 ![](https://komarev.com/ghpvc/?username=AbuDzarAlGhifari&color=blue)
 
 ---
