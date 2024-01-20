@@ -7,7 +7,8 @@
 
 - 📄 Know about my experiences **[https://drive.google.com/file/d/176XkOJ_MRsOtJUQNTu3S-NkmSMDtkD5L/view](https://drive.google.com/file/d/176XkOJ_MRsOtJUQNTu3S-NkmSMDtkD5L/view)**
 ---
-[![](https://visitcount.itsvg.in/api?id=AbuDzarAlGhifari&icon=5&color=1)](https://visitcount.itsvg.in)
+
+![](https://komarev.com/ghpvc/?username=AbuDzarAlGhifari&color=blue)
 
 ---
 # 💻 Tech Stack:
