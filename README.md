@@ -1,10 +1,10 @@
 ## Hi there 👋, I'm Abu Dzar Al Ghifari
 
-- 👨‍💻 All of my projects are available at **[https://abudzaralghifari.vercel.app/](https://abudzaralghifari.vercel.app/)**
+- 👨‍💻 My Portfolio = **[https://abudzaralghifari.vercel.app/](https://abudzaralghifari.vercel.app/)**
 
-- 📫 How to reach me **abuz.alghifari@gmail.com**
+- 📫 My Email = **abuz.alghifari@gmail.com**
 
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1LlhDR8lVcsrRJXwxbJv5x8tnpbm0yP_H/view?usp=drive_link](https://drive.google.com/file/d/1LlhDR8lVcsrRJXwxbJv5x8tnpbm0yP_H/view?usp=drive_link)**
+- 📄 My experiences = **[https://drive.google.com/file/d/1LlhDR8lVcsrRJXwxbJv5x8tnpbm0yP_H/view?usp=drive_link](https://drive.google.com/file/d/1LlhDR8lVcsrRJXwxbJv5x8tnpbm0yP_H/view?usp=drive_link)**
 
 ![](https://komarev.com/ghpvc/?username=AbuDzarAlGhifari&color=blue)
 
