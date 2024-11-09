@@ -4,7 +4,7 @@
 
 - 📫 How to reach me **abuz.alghifari@gmail.com**
 
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1qFOq9jH1U76l3dZJ5wRlGjRpeLUG6tXW/view?usp=drive_link](https://drive.google.com/file/d/1qFOq9jH1U76l3dZJ5wRlGjRpeLUG6tXW/view?usp=drive_link)**
+- 📄 Know about my experiences **[https://drive.google.com/file/d/1LlhDR8lVcsrRJXwxbJv5x8tnpbm0yP_H/view?usp=drive_link](https://drive.google.com/file/d/1LlhDR8lVcsrRJXwxbJv5x8tnpbm0yP_H/view?usp=drive_link)**
 
 ![](https://komarev.com/ghpvc/?username=AbuDzarAlGhifari&color=blue)
 
