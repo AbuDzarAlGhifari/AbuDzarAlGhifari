@@ -4,7 +4,9 @@
 
 - 📧 Email : **abuz.alghifari@gmail.com**
 
-- 📄 CV : **[CV Abu Dzar Al Ghifari](https://drive.google.com/file/d/1LlhDR8lVcsrRJXwxbJv5x8tnpbm0yP_H/view?usp=drive_link)**
+<!-- 📄 CV : **[CV Abu Dzar Al Ghifari](https://drive.google.com/file/d/1LlhDR8lVcsrRJXwxbJv5x8tnpbm0yP_H/view?usp=drive_link)**  -->
+
+##
 
 ![](https://komarev.com/ghpvc/?username=AbuDzarAlGhifari&color=blue)
 
@@ -23,8 +25,9 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-<!-- ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)' -->
-<!-- ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) -->
+
+<!-- ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)'
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) -->
 
 ---
 ### ✍️ Random Dev Quote
